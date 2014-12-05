@@ -1,0 +1,23 @@
+{
+  "name": "ruma",
+  "version": "1.0.0",
+  "description": "web site based on ruma",
+  "main": "start.js",
+  "dependencies": {
+    "express": "^4.10.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asiegrist/ruma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiegrist/ruma/issues"
+  },
+  "homepage": "https://github.com/asiegrist/ruma"
+}
